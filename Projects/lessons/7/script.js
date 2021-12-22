@@ -44,3 +44,4 @@ answers.height = +prompt('ваш рост', '');
 answers.isMarried = confirm('вы женаты', '');
 document.write(answers.name1, answers.age, answers.isMarried);
 console.log(answers);
+//dfsdsd
