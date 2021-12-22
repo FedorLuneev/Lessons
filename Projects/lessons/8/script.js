@@ -9,3 +9,5 @@ console.log(`http://muspace.com/${category}/${category1}`); // интерпол�
 
 const user = "Ivan";
 alert(`Привет, ${user}`);
+//
+//fdfsdfsfs

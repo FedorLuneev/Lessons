@@ -44,4 +44,4 @@ const isCheked = true,
 console.log(isCheked || isClose == true);
 console.log(isCheked && !isClose);
 
-// ! оператор отрицания
+// ! оператор отрицанияg
